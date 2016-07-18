@@ -1,0 +1,296 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		CAB989CD1D3C7814007ED088 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB989CC1D3C7814007ED088 /* AppDelegate.swift */; };
+		CAB989CF1D3C7814007ED088 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB989CE1D3C7814007ED088 /* ViewController.swift */; };
+		CAB989D21D3C7814007ED088 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAB989D01D3C7814007ED088 /* Main.storyboard */; };
+		CAB989D41D3C7814007ED088 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAB989D31D3C7814007ED088 /* Assets.xcassets */; };
+		CAB989D71D3C7814007ED088 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAB989D51D3C7814007ED088 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		CAB989C91D3C7814007ED088 /* Euler Solutions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Euler Solutions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CAB989CC1D3C7814007ED088 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CAB989CE1D3C7814007ED088 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		CAB989D11D3C7814007ED088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		CAB989D31D3C7814007ED088 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		CAB989D61D3C7814007ED088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CAB989D81D3C7814007ED088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CAB989C61D3C7814007ED088 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		CAB989C01D3C7814007ED088 = {
+			isa = PBXGroup;
+			children = (
+				CAB989CB1D3C7814007ED088 /* Euler Solutions */,
+				CAB989CA1D3C7814007ED088 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		CAB989CA1D3C7814007ED088 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				CAB989C91D3C7814007ED088 /* Euler Solutions.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		CAB989CB1D3C7814007ED088 /* Euler Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				CAB989CC1D3C7814007ED088 /* AppDelegate.swift */,
+				CAB989CE1D3C7814007ED088 /* ViewController.swift */,
+				CAB989D01D3C7814007ED088 /* Main.storyboard */,
+				CAB989D31D3C7814007ED088 /* Assets.xcassets */,
+				CAB989D51D3C7814007ED088 /* LaunchScreen.storyboard */,
+				CAB989D81D3C7814007ED088 /* Info.plist */,
+			);
+			path = "Euler Solutions";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		CAB989C81D3C7814007ED088 /* Euler Solutions */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = CAB989DB1D3C7814007ED088 /* Build configuration list for PBXNativeTarget "Euler Solutions" */;
+			buildPhases = (
+				CAB989C51D3C7814007ED088 /* Sources */,
+				CAB989C61D3C7814007ED088 /* Frameworks */,
+				CAB989C71D3C7814007ED088 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Euler Solutions";
+			productName = "Euler Solutions";
+			productReference = CAB989C91D3C7814007ED088 /* Euler Solutions.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		CAB989C11D3C7814007ED088 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = 36ByDesign;
+				TargetAttributes = {
+					CAB989C81D3C7814007ED088 = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = FQG97V8895;
+					};
+				};
+			};
+			buildConfigurationList = CAB989C41D3C7814007ED088 /* Build configuration list for PBXProject "Euler Solutions" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CAB989C01D3C7814007ED088;
+			productRefGroup = CAB989CA1D3C7814007ED088 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				CAB989C81D3C7814007ED088 /* Euler Solutions */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		CAB989C71D3C7814007ED088 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAB989D71D3C7814007ED088 /* LaunchScreen.storyboard in Resources */,
+				CAB989D41D3C7814007ED088 /* Assets.xcassets in Resources */,
+				CAB989D21D3C7814007ED088 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		CAB989C51D3C7814007ED088 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CAB989CF1D3C7814007ED088 /* ViewController.swift in Sources */,
+				CAB989CD1D3C7814007ED088 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		CAB989D01D3C7814007ED088 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAB989D11D3C7814007ED088 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		CAB989D51D3C7814007ED088 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				CAB989D61D3C7814007ED088 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		CAB989D91D3C7814007ED088 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		CAB989DA1D3C7814007ED088 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		CAB989DC1D3C7814007ED088 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Euler Solutions/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.36bydesign.com.Euler-Solutions";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		CAB989DD1D3C7814007ED088 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Euler Solutions/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.36bydesign.com.Euler-Solutions";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		CAB989C41D3C7814007ED088 /* Build configuration list for PBXProject "Euler Solutions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CAB989D91D3C7814007ED088 /* Debug */,
+				CAB989DA1D3C7814007ED088 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		CAB989DB1D3C7814007ED088 /* Build configuration list for PBXNativeTarget "Euler Solutions" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CAB989DC1D3C7814007ED088 /* Debug */,
+				CAB989DD1D3C7814007ED088 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = CAB989C11D3C7814007ED088 /* Project object */;
+}
