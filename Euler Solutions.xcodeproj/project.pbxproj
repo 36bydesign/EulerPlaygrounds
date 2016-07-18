@@ -22,6 +22,7 @@
 		CAB989D31D3C7814007ED088 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAB989D61D3C7814007ED088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CAB989D81D3C7814007ED088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAB989DE1D3C782F007ED088 /* Euler 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 1.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 		CAB989CB1D3C7814007ED088 /* Euler Solutions */ = {
 			isa = PBXGroup;
 			children = (
+				CAB989DE1D3C782F007ED088 /* Euler 1.playground */,
 				CAB989CC1D3C7814007ED088 /* AppDelegate.swift */,
 				CAB989CE1D3C7814007ED088 /* ViewController.swift */,
 				CAB989D01D3C7814007ED088 /* Main.storyboard */,
