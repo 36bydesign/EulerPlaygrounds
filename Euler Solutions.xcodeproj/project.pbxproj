@@ -7,16 +7,16 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		CA17B40F1D3DE18900980884 /* Euler 8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 8.playground"; path = "../Euler 8.playground"; sourceTree = "<group>"; };
-		CA3CE0461D3C9FD300EB0607 /* Euler4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Euler4.playground; path = ../Euler4.playground; sourceTree = "<group>"; };
-		CAB333E21D3D84E10041CF98 /* Euler 6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 6.playground"; path = "../Euler 6.playground"; sourceTree = "<group>"; };
+		CA17B4101D3DE7BB00980884 /* Euler 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 1.playground"; sourceTree = "<group>"; };
+		CA17B4111D3DE7BB00980884 /* Euler 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 2.playground"; sourceTree = "<group>"; };
+		CA17B4121D3DE7BB00980884 /* Euler 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 3.playground"; sourceTree = "<group>"; };
+		CA17B4131D3DE7BB00980884 /* Euler 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 4.playground"; sourceTree = "<group>"; };
+		CA17B4141D3DE7BB00980884 /* Euler 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 5.playground"; sourceTree = "<group>"; };
+		CA17B4151D3DE7BB00980884 /* Euler 6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 6.playground"; sourceTree = "<group>"; };
+		CA17B4161D3DE7BB00980884 /* Euler 7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 7.playground"; sourceTree = "<group>"; };
+		CA17B4171D3DE7BB00980884 /* Euler 8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 8.playground"; sourceTree = "<group>"; };
 		CAB989C91D3C7814007ED088 /* Euler Solutions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Euler Solutions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CAB989D81D3C7814007ED088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Euler Solutions/Info.plist"; sourceTree = "<group>"; };
-		CAB989DE1D3C782F007ED088 /* Euler 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 1.playground"; sourceTree = "<group>"; };
-		CAB989DF1D3C7FB3007ED088 /* Euler 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 2.playground"; sourceTree = "<group>"; };
-		CAB989E01D3C8AFE007ED088 /* Euler 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 3.playground"; path = "../Euler 3.playground"; sourceTree = "<group>"; };
-		CAD6AEDF1D3CAD8D000EE86E /* Euler 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 5.playground"; path = "../Euler 5.playground"; sourceTree = "<group>"; };
-		CAFA96F71D3DC0EB007E5A0F /* Euler 7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 7.playground"; path = "../Euler 7.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,14 +50,14 @@
 		CAB989CB1D3C7814007ED088 /* Euler Solutions */ = {
 			isa = PBXGroup;
 			children = (
-				CAB989DE1D3C782F007ED088 /* Euler 1.playground */,
-				CAB989DF1D3C7FB3007ED088 /* Euler 2.playground */,
-				CAB989E01D3C8AFE007ED088 /* Euler 3.playground */,
-				CA3CE0461D3C9FD300EB0607 /* Euler4.playground */,
-				CAD6AEDF1D3CAD8D000EE86E /* Euler 5.playground */,
-				CAB333E21D3D84E10041CF98 /* Euler 6.playground */,
-				CAFA96F71D3DC0EB007E5A0F /* Euler 7.playground */,
-				CA17B40F1D3DE18900980884 /* Euler 8.playground */,
+				CA17B4101D3DE7BB00980884 /* Euler 1.playground */,
+				CA17B4111D3DE7BB00980884 /* Euler 2.playground */,
+				CA17B4121D3DE7BB00980884 /* Euler 3.playground */,
+				CA17B4131D3DE7BB00980884 /* Euler 4.playground */,
+				CA17B4141D3DE7BB00980884 /* Euler 5.playground */,
+				CA17B4151D3DE7BB00980884 /* Euler 6.playground */,
+				CA17B4161D3DE7BB00980884 /* Euler 7.playground */,
+				CA17B4171D3DE7BB00980884 /* Euler 8.playground */,
 			);
 			path = "Euler Solutions";
 			sourceTree = "<group>";
