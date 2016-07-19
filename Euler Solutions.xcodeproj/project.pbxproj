@@ -6,23 +6,17 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		CAB989CD1D3C7814007ED088 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB989CC1D3C7814007ED088 /* AppDelegate.swift */; };
-		CAB989CF1D3C7814007ED088 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAB989CE1D3C7814007ED088 /* ViewController.swift */; };
-		CAB989D21D3C7814007ED088 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAB989D01D3C7814007ED088 /* Main.storyboard */; };
-		CAB989D41D3C7814007ED088 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAB989D31D3C7814007ED088 /* Assets.xcassets */; };
-		CAB989D71D3C7814007ED088 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAB989D51D3C7814007ED088 /* LaunchScreen.storyboard */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
+		CA17B40F1D3DE18900980884 /* Euler 8.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 8.playground"; path = "../Euler 8.playground"; sourceTree = "<group>"; };
+		CA3CE0461D3C9FD300EB0607 /* Euler4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = Euler4.playground; path = ../Euler4.playground; sourceTree = "<group>"; };
+		CAB333E21D3D84E10041CF98 /* Euler 6.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 6.playground"; path = "../Euler 6.playground"; sourceTree = "<group>"; };
 		CAB989C91D3C7814007ED088 /* Euler Solutions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Euler Solutions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		CAB989CC1D3C7814007ED088 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CAB989CE1D3C7814007ED088 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CAB989D11D3C7814007ED088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		CAB989D31D3C7814007ED088 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CAB989D61D3C7814007ED088 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		CAB989D81D3C7814007ED088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAB989D81D3C7814007ED088 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Euler Solutions/Info.plist"; sourceTree = "<group>"; };
 		CAB989DE1D3C782F007ED088 /* Euler 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 1.playground"; sourceTree = "<group>"; };
+		CAB989DF1D3C7FB3007ED088 /* Euler 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Euler 2.playground"; sourceTree = "<group>"; };
+		CAB989E01D3C8AFE007ED088 /* Euler 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 3.playground"; path = "../Euler 3.playground"; sourceTree = "<group>"; };
+		CAD6AEDF1D3CAD8D000EE86E /* Euler 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 5.playground"; path = "../Euler 5.playground"; sourceTree = "<group>"; };
+		CAFA96F71D3DC0EB007E5A0F /* Euler 7.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "Euler 7.playground"; path = "../Euler 7.playground"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +35,7 @@
 			children = (
 				CAB989CB1D3C7814007ED088 /* Euler Solutions */,
 				CAB989CA1D3C7814007ED088 /* Products */,
+				CAB989D81D3C7814007ED088 /* Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,12 +51,13 @@
 			isa = PBXGroup;
 			children = (
 				CAB989DE1D3C782F007ED088 /* Euler 1.playground */,
-				CAB989CC1D3C7814007ED088 /* AppDelegate.swift */,
-				CAB989CE1D3C7814007ED088 /* ViewController.swift */,
-				CAB989D01D3C7814007ED088 /* Main.storyboard */,
-				CAB989D31D3C7814007ED088 /* Assets.xcassets */,
-				CAB989D51D3C7814007ED088 /* LaunchScreen.storyboard */,
-				CAB989D81D3C7814007ED088 /* Info.plist */,
+				CAB989DF1D3C7FB3007ED088 /* Euler 2.playground */,
+				CAB989E01D3C8AFE007ED088 /* Euler 3.playground */,
+				CA3CE0461D3C9FD300EB0607 /* Euler4.playground */,
+				CAD6AEDF1D3CAD8D000EE86E /* Euler 5.playground */,
+				CAB333E21D3D84E10041CF98 /* Euler 6.playground */,
+				CAFA96F71D3DC0EB007E5A0F /* Euler 7.playground */,
+				CA17B40F1D3DE18900980884 /* Euler 8.playground */,
 			);
 			path = "Euler Solutions";
 			sourceTree = "<group>";
@@ -125,9 +121,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CAB989D71D3C7814007ED088 /* LaunchScreen.storyboard in Resources */,
-				CAB989D41D3C7814007ED088 /* Assets.xcassets in Resources */,
-				CAB989D21D3C7814007ED088 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,31 +131,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CAB989CF1D3C7814007ED088 /* ViewController.swift in Sources */,
-				CAB989CD1D3C7814007ED088 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		CAB989D01D3C7814007ED088 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CAB989D11D3C7814007ED088 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		CAB989D51D3C7814007ED088 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CAB989D61D3C7814007ED088 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		CAB989D91D3C7814007ED088 /* Debug */ = {
@@ -291,6 +263,7 @@
 				CAB989DD1D3C7814007ED088 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
